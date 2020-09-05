@@ -1,2 +1,1 @@
-< img src="images/screenshot1.png >
-
+![](images/screenshot1.png)
